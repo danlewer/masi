@@ -1,0 +1,83 @@
+chapter,medium2,medium,medium3,observed,expected,att,chapter2
+I Certain infectious and parasitic diseases,Other,Human immunodeficiency virus [HIV] disease,Other,2907,706.933057,2200.066943,Infections
+I Certain infectious and parasitic diseases,Other,Intestinal infectious diseases,Other,4037,2140.082346,1896.917654,Infections
+I Certain infectious and parasitic diseases,Other,other,Other,14793,8511.545209,6281.454791,Infections
+I Certain infectious and parasitic diseases,Other,Tuberculosis,Other,2111,412.0312885,1698.968711,Infections
+I Certain infectious and parasitic diseases,Other,Viral hepatitis,Other,2717,854.2647187,1862.735281,Infections
+I Certain infectious and parasitic diseases,Other,Viral infections of the central nervous system,Other,1551,1450.229421,100.7705789,Infections
+II Neoplasms,II Neoplasms--Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,Lymphoid & haematopoietic,73354,67936.15643,5417.843573,Cancers
+II Neoplasms,II Neoplasms--Malignant neoplasms of digestive organs,Malignant neoplasms of digestive organs,Digestive,271981,219518.5752,52462.42476,Cancers
+II Neoplasms,II Neoplasms--Malignant neoplasms of urinary tract,Malignant neoplasms of urinary tract,Urinary,47814,37485.15149,10328.84851,Cancers
+II Neoplasms,II Neoplasms--Malignant neoplasms of respiratory and intrathoracic organs,Malignant neoplasms of respiratory and intrathoracic organs,Respiratory,236968,125884.6136,111083.3864,Cancers
+II Neoplasms,II Neoplasms--Malignant neoplasm of breast,Malignant neoplasm of breast,Breast,84301,80613.03128,3687.968718,Cancers
+II Neoplasms,Other,Malignant neoplasms of bone and articular cartilage,Other,2880,2703.016683,176.9833168,Cancers
+II Neoplasms,II Neoplasms--Malignant neoplasms of eye; brain and other parts of central nervous system,Malignant neoplasms of eye; brain and other parts of central nervous system,"Eye, brain & CNS",38626,40964.91941,-2338.919411,Cancers
+II Neoplasms,II Neoplasms--Malignant neoplasms of female genital organs,Malignant neoplasms of female genital organs,Female genital organs,55661,46165.90835,9495.091647,Cancers
+II Neoplasms,II Neoplasms--Malignant neoplasms of lip; oral cavity and pharynx,Malignant neoplasms of lip; oral cavity and pharynx,Mouth,20322,10986.55228,9335.447725,Cancers
+II Neoplasms,II Neoplasms--Malignant neoplasms of male genital organs,Malignant neoplasms of male genital organs,Male genital organs,39842,36269.94077,3572.059231,Cancers
+II Neoplasms,II Neoplasms--Malignant neoplasms of mesothelial and soft tissue,Malignant neoplasms of mesothelial and soft tissue,Mesothelial & soft tissue,25384,24245.93393,1138.066066,Cancers
+II Neoplasms,Other,Malignant neoplasms of thyroid and other endocrine glands,Other,3906,3437.710582,468.2894184,Cancers
+II Neoplasms,II Neoplasms--Melanoma and other malignant neoplasms of skin,Melanoma and other malignant neoplasms of skin,Skin,19248,20862.07621,-1614.076206,Cancers
+II Neoplasms,Other,other,Other,80830,57853.61469,22976.38531,Cancers
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other,Aplastic and other anaemias,Other,972,576.3063073,395.6936927,Other
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other,Certain disorders involving the immune mechanism,Other,2032,1251.389811,780.6101893,Other
+III Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Other,other,Other,3348,2322.781238,1025.218762,Other
+IV Endocrine; nutritional and metabolic diseases,Other,Metabolic disorders,Other,8552,6292.018598,2259.981401,"Endocrine, nutritional & metabolic"
+IV Endocrine; nutritional and metabolic diseases,IV Endocrine; nutritional and metabolic diseases--Diabetes mellitus,Diabetes mellitus,Diabetes,23787,9847.992948,13939.00705,"Endocrine, nutritional & metabolic"
+IV Endocrine; nutritional and metabolic diseases,Other,Obesity and other hyperalimentation,Other,4393,1413.630005,2979.369995,"Endocrine, nutritional & metabolic"
+IV Endocrine; nutritional and metabolic diseases,Other,other,Other,1931,1013.069108,917.9308922,"Endocrine, nutritional & metabolic"
+IX Diseases of the circulatory system,IX Diseases of the circulatory system--Ischaemic heart diseases,Ischaemic heart diseases,Ischaemic heart disease,335526,183355.1412,152170.8588,Cardiovascular
+IX Diseases of the circulatory system,IX Diseases of the circulatory system--Diseases of arteries; arterioles and capillaries,Diseases of arteries; arterioles and capillaries,Arteries [3],36847,24175.25658,12671.74343,Cardiovascular
+IX Diseases of the circulatory system,IX Diseases of the circulatory system--Other forms of heart disease,Other forms of heart disease,Other heart disease,59333,35861.17922,23471.82078,Cardiovascular
+IX Diseases of the circulatory system,IX Diseases of the circulatory system--Cerebrovascular diseases,Cerebrovascular diseases,Stroke,111210,68383.08884,42826.91116,Cardiovascular
+IX Diseases of the circulatory system,IX Diseases of the circulatory system--Hypertensive diseases,Hypertensive diseases,Hypertensive disease,17961,9643.456664,8317.543336,Cardiovascular
+IX Diseases of the circulatory system,IX Diseases of the circulatory system--Diseases of veins; lymphatic vessels and lymph nodes; not elsewhere classified,Diseases of veins; lymphatic vessels and lymph nodes; not elsewhere classified,Veins & lymph nodes,22063,13018.86033,9044.139674,Cardiovascular
+IX Diseases of the circulatory system,Other,other,Other,4330,2965.587619,1364.412381,Cardiovascular
+IX Diseases of the circulatory system,IX Diseases of the circulatory system--Pulmonary heart disease and diseases of pulmonary circulation,Pulmonary heart disease and diseases of pulmonary circulation,Pulmonary heart disease,16274,9572.734882,6701.265118,Cardiovascular
+V Mental and behavioural disorders,V Mental and behavioural disorders--Mental and behavioural disorders due to psychoactive substance use,Mental and behavioural disorders due to psychoactive substance use,Psychoactive substance use,13065,4228.453757,8836.546243,Mental & behavioural
+V Mental and behavioural disorders,V Mental and behavioural disorders--Organic; including symptomatic; mental disorders,Organic; including symptomatic; mental disorders,Organic,17788,11133.14083,6654.859175,Mental & behavioural
+V Mental and behavioural disorders,Other,other,Other,1100,750.1964997,349.8035003,Mental & behavioural
+VI Diseases of the nervous system,Other,Cerebral palsy and other paralytic syndromes,Other,4256,3067.646539,1188.353461,Nervous system
+VI Diseases of the nervous system,VI Diseases of the nervous system--Demyelinating diseases of the central nervous system,Demyelinating diseases of the central nervous system,Demyelinating diseases,12872,10737.59299,2134.407006,Nervous system
+VI Diseases of the nervous system,Other,Diseases of myoneural junction and muscle,Other,3689,2435.867553,1253.132447,Nervous system
+VI Diseases of the nervous system,VI Diseases of the nervous system--Episodic and paroxysmal disorders,Episodic and paroxysmal disorders,Epilepsy,11002,5997.021086,5004.978914,Nervous system
+VI Diseases of the nervous system,VI Diseases of the nervous system--Extrapyramidal and movement disorders,Extrapyramidal and movement disorders,Extrapyramidal & movement,10665,9670.645348,994.3546518,Nervous system
+VI Diseases of the nervous system,Other,other,Other,9050,6288.695909,2761.304091,Nervous system
+VI Diseases of the nervous system,VI Diseases of the nervous system--Other degenerative diseases of the nervous system,Other degenerative diseases of the nervous system,Other degenerative diseases,14755,12201.91313,2553.086874,Nervous system
+VI Diseases of the nervous system,VI Diseases of the nervous system--Systemic atrophies primarily affecting the central nervous system,Systemic atrophies primarily affecting the central nervous system,Systemic atrophies,19008,17991.7561,1016.243905,Nervous system
+X Diseases of the respiratory system,X Diseases of the respiratory system--Chronic lower respiratory diseases,Chronic lower respiratory diseases,COPD,129062,45468.89598,83593.10402,Respiratory
+X Diseases of the respiratory system,X Diseases of the respiratory system--Influenza and pneumonia,Influenza and pneumonia,Flu & pneumonia,57676,28162.90764,29513.09236,Respiratory
+X Diseases of the respiratory system,Other,Lung diseases due to external agents,Other,7912,4254.500976,3657.499024,Respiratory
+X Diseases of the respiratory system,Other,other,Other,29355,19095.85689,10259.14311,Respiratory
+X Diseases of the respiratory system,Other,Other acute lower respiratory infections,Other,4351,2244.67301,2106.32699,Respiratory
+X Diseases of the respiratory system,Other,Suppurative and necrotic conditions of lower respiratory tract,Other,2103,876.8620849,1226.137915,Respiratory
+XI Diseases of the digestive system,XI Diseases of the digestive system--Diseases of liver,Diseases of liver,Liver diseases,93505,43343.91721,50161.08279,Digestive
+XI Diseases of the digestive system,XI Diseases of the digestive system--Diseases of oesophagus; stomach and duodenum,Diseases of oesophagus; stomach and duodenum,Stomach [1],17111,8177.293716,8933.706284,Digestive
+XI Diseases of the digestive system,XI Diseases of the digestive system--Disorders of gallbladder; biliary tract and pancreas,Disorders of gallbladder; biliary tract and pancreas,Gall bladder [2],13877,7313.50672,6563.49328,Digestive
+XI Diseases of the digestive system,Other,Hernia,Other,3153,1597.843577,1555.156423,Digestive
+XI Diseases of the digestive system,Other,Noninfective enteritis and colitis,Other,3248,2139.314738,1108.685262,Digestive
+XI Diseases of the digestive system,Other,other,Other,6841,3607.943102,3233.056898,Digestive
+XI Diseases of the digestive system,XI Diseases of the digestive system--Other diseases of intestines,Other diseases of intestines,Intestinal diseases,25674,14116.08695,11557.91305,Digestive
+XII Diseases of the skin and subcutaneous tissue,Other,Infections of the skin and subcutaneous tissue,Other,3711,1908.525473,1802.474527,Other
+XII Diseases of the skin and subcutaneous tissue,Other,other,Other,2264,942.0811198,1321.91888,Other
+XIII Diseases of the musculoskeletal system and connective tissue,Other,Arthropathies,Other,5239,3333.610708,1905.389292,Other
+XIII Diseases of the musculoskeletal system and connective tissue,Other,Osteopathies and chondropathies,Other,1991,1162.127283,828.8727165,Other
+XIII Diseases of the musculoskeletal system and connective tissue,Other,other,Other,1523,1061.493154,461.506846,Other
+XIII Diseases of the musculoskeletal system and connective tissue,Other,Soft tissue disorders,Other,1690,994.7738527,695.2261473,Other
+XIII Diseases of the musculoskeletal system and connective tissue,Other,Systemic connective tissue disorders,Other,3970,2851.339611,1118.660389,Other
+XIV Diseases of the genitourinary system,Other,Glomerular diseases,Other,1096,655.6799085,440.3200915,Other
+XIV Diseases of the genitourinary system,Other,other,Other,12200,6443.715292,5756.284708,Other
+XIV Diseases of the genitourinary system,Other,Renal failure,Other,6240,3303.221113,2936.778887,Other
+XIV Diseases of the genitourinary system,Other,Renal tubulo-interstitial diseases,Other,2595,1290.306413,1304.693587,Other
+XVII Congenital malformations; deformations and chromosomal abnormalities,Other,Chromosomal abnormalities; not elsewhere classified,Other,4575,2479.125483,2095.874517,Other
+XVII Congenital malformations; deformations and chromosomal abnormalities,Other,Congenital malformations of the circulatory system,Other,5608,4100.422109,1507.577891,Other
+XVII Congenital malformations; deformations and chromosomal abnormalities,Other,Congenital malformations of the nervous system,Other,1634,790.6394655,843.3605345,Other
+XVII Congenital malformations; deformations and chromosomal abnormalities,Other,other,Other,3709,2385.755671,1323.244329,Other
+XVIII Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified,Other,other,Other,17305,6472.668824,10832.33118,Other
+XX External causes of morbidity and mortality,XX External causes of morbidity and mortality--Accidents,Accidents,Accidents,86270,50534.27408,35735.72592,External
+XX External causes of morbidity and mortality,Other,Complications of medical and surgical care,Other,4829,2881.384667,1947.615333,External
+XX External causes of morbidity and mortality,XX External causes of morbidity and mortality--Event of undetermined intent,Event of undetermined intent,Events of undetermined intent,24739,12153.6355,12585.3645,External
+XX External causes of morbidity and mortality,XX External causes of morbidity and mortality--Intentional self-harm,Intentional self-harm,Self-harm,47931,35820.26459,12110.73541,External
+XX External causes of morbidity and mortality,Other,other,Other,2300,1419.421038,880.5789616,External
+neonatal,neonatal--neonatal,neonatal,Neonatal,31247,19489.97431,11757.02569,Neonatal
+other,Other,other,Other,3709,2131.702091,1577.297909,Other
