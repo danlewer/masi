@@ -8,7 +8,7 @@ Detailed results tables are available in the [supplementary appendix](https://ww
 
 The repository includes:
 
-* [Code](https://github.com/danlewer/masi/blob/main/example_masi_calculation) providing an example of how MASI is estimated, using publicly available data (that is also included in the repository and read directly by the script)
+* [Code](https://github.com/danlewer/masi/blob/main/example_masi_calculation.R) providing an example of how MASI is estimated, using publicly available data (that is also included in the repository and read directly by the script)
 * [Code](https://github.com/danlewer/masi/blob/main/pie_function.R) showing how the 'exploded pie chart' (figure 3 in the published article) is drawn
 
 # Abstract
