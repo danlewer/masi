@@ -4,12 +4,12 @@ This repository includes code associated with the article:
 
 Lewer D, Jayatunga W, Aldridge RW et al.  Premature mortality attributable to socioeconomic inequality in England between 2003 and 2018: an observational study. Lancet Public Health 2020;5(1):e33–41. https://doi.org/10.1016/S2468-2667(19)30219-1
 
-Further data is available at UCL: https://discovery.ucl.ac.uk/id/eprint/10086658/ or https://doi.org/10.14324/000.ds.10086658
+Detailed results tables are available in the [supplementary appendix](https://www.thelancet.com/cms/10.1016/S2468-2667(19)30219-1/attachment/81055507-b222-435d-bf59-44848a61e28f/mmc1.pdf) and at [UCL](https://doi.org/10.14324/000.ds.10086658).
 
 The repository includes:
 
-- Code https://github.com/danlewer/masi/blob/main/example_masi_calculation providing an example of how MASI is estimated, using publicly available data (that is also included in the repository and read directly by the script)
-- Code https://github.com/danlewer/masi/blob/main/pie_function.R showing how the 'exploded pie chart' (figure 3 in the published article) is drawn
+* [Code](https://github.com/danlewer/masi/blob/main/example_masi_calculation) providing an example of how MASI is estimated, using publicly available data (that is also included in the repository and read directly by the script)
+* [Code](https://github.com/danlewer/masi/blob/main/pie_function.R) showing how the 'exploded pie chart' (figure 3 in the published article) is drawn
 
 ## Background
 Low socioeconomic position is consistently associated with increased risk of premature death. The aim of this study is to measure the aggregate scale of inequality in premature mortality for the whole population of England.
