@@ -6,6 +6,11 @@ Lewer D, Jayatunga W, Aldridge RW et al.  Premature mortality attributable to so
 
 Further data is available at UCL: https://discovery.ucl.ac.uk/id/eprint/10086658/ or https://doi.org/10.14324/000.ds.10086658
 
+The repository includes:
+
+- Code https://github.com/danlewer/masi/blob/main/example_masi_calculation providing an example of how MASI is estimated, using publicly available data (that is also included in the repository and read directly by the script)
+- Code https://github.com/danlewer/masi/blob/main/pie_function.R showing how the 'exploded pie chart' (figure 3 in the published article) is drawn
+
 ## Background
 Low socioeconomic position is consistently associated with increased risk of premature death. The aim of this study is to measure the aggregate scale of inequality in premature mortality for the whole population of England.
 ## Methods
