@@ -21,3 +21,17 @@ We used mortality records from the UK Office for National Statistics to study al
 One in three premature deaths are attributable to socioeconomic inequality, making this our most important public health challenge. Interventions that address upstream determinants of health should be prioritised.
 ## Funding
 National Institute of Health Research; Wellcome Trust.
+
+# License
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+Please cite the published article:
+
+Lewer D, Jayatunga W, Aldridge RW et al.  Premature mortality attributable to socioeconomic inequality in England between 2003 and 2018: an observational study. Lancet Public Health 2020;5(1):e33–41. https://doi.org/10.1016/S2468-2667(19)30219-1
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
